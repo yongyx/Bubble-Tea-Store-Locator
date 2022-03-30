@@ -1,0 +1,382 @@
+{
+   "Cupertino": {
+      "Lee's Sandwiches": [
+         [
+            3.0,
+            "$",
+            [
+               "20363 Stevens Creek Blvd",
+               "Cupertino, CA 95014"
+            ],
+            0.9,
+            [
+               "Sandwiches",
+               "Vietnamese",
+               "Coffee & Tea"
+            ]
+         ]
+      ]
+   },
+   "San Jose": {
+      "Bobateani": [
+         [
+            5.0,
+            "$",
+            [
+               "75 E Santa Clara St",
+               "Fl 6",
+               "San Jose, CA 95113"
+            ],
+            8.6,
+            [
+               "Bubble Tea",
+               "Caterers"
+            ]
+         ]
+      ],
+      "Happy Lemon": [
+         [
+            4.0,
+            "$",
+            [
+               "311 N Capitol Ave",
+               "Ste C",
+               "San Jose, CA 95133"
+            ],
+            11.5,
+            [
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "T4": [
+         [
+            3.0,
+            "$",
+            [
+               "1671 N Capitol Ave",
+               "San Jose, CA 95132"
+            ],
+            10.8,
+            [
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Teasociety": [
+         [
+            3.0,
+            "$",
+            [
+               "1658 E Capitol Expy",
+               "San Jose, CA 95121"
+            ],
+            12.9,
+            [
+               "Coffee & Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Meet Fresh": [
+         [
+            3.5,
+            "$$",
+            [
+               "877 Blossom Hill Rd",
+               "Ste 20",
+               "San Jose, CA 95123"
+            ],
+            11.2,
+            [
+               "Bubble Tea",
+               "Shaved Ice",
+               "Desserts"
+            ]
+         ]
+      ],
+      "Gong Cha": [
+         [
+            3.5,
+            "$",
+            [
+               "1600 Saratoga Ave",
+               "Ste 115",
+               "Westgate Center Mall",
+               "San Jose, CA 95129"
+            ],
+            3.6,
+            [
+               "Bubble Tea",
+               "Coffee & Tea"
+            ]
+         ],
+         [
+            3.5,
+            "$",
+            [
+               "1701 Lundy Ave",
+               "Ste 170",
+               "San Jose, CA 95131"
+            ],
+            9.8,
+            [
+               "Bubble Tea",
+               "Coffee & Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ],
+         [
+            3.5,
+            "$$",
+            [
+               "1180 Blossom Hill Rd",
+               "Ste 3",
+               "San Jose, CA 95118"
+            ],
+            10.3,
+            [
+               "Bubble Tea",
+               "Coffee & Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Happiness Cafe": [
+         [
+            4.5,
+            "$$",
+            [
+               "1688 Hostetter Rd",
+               "Ste C",
+               "San Jose, CA 95131"
+            ],
+            9.9,
+            [
+               "Ice Cream & Frozen Yogurt",
+               "Vegan",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "TZONE Winchester": [
+         [
+            3.5,
+            "$",
+            [
+               "980 S Winchester Blvd",
+               "Ste 20",
+               "San Jose, CA 95128"
+            ],
+            5.3,
+            [
+               "Juice Bars & Smoothies",
+               "Desserts",
+               "Coffee & Tea"
+            ]
+         ]
+      ],
+      "Yifang Fruit Tea": [
+         [
+            2.5,
+            "NULL",
+            [
+               "925 Blossom Hill Rd",
+               "Ste 1705",
+               "Westfield Oakridge Mall",
+               "San Jose, CA 95123"
+            ],
+            11.0,
+            [
+               "Bubble Tea",
+               "Juice Bars & Smoothies",
+               "Food Delivery Services"
+            ]
+         ]
+      ],
+      "Tea Alley": [
+         [
+            3.5,
+            "$",
+            [
+               "40 S 1st St",
+               "San Jose, CA 95113"
+            ],
+            8.6,
+            [
+               "Desserts",
+               "Taiwanese",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Teazu": [
+         [
+            3.5,
+            "$",
+            [
+               "969 Story Rd",
+               "Ste 6033",
+               "San Jose, CA 95122"
+            ],
+            10.3,
+            [
+               "Bubble Tea",
+               "Tea Rooms",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "MILQ Tea Lounge": [
+         [
+            3.5,
+            "$$",
+            [
+               "301 N Jackson Ave",
+               "San Jose, CA 95133"
+            ],
+            11.1,
+            [
+               "Coffee & Tea",
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Tapioca Express": [
+         [
+            3.5,
+            "$$",
+            [
+               "81 Curtner Ave",
+               "Ste 40",
+               "San Jose, CA 95112"
+            ],
+            10.0,
+            [
+               "Coffee & Tea",
+               "Juice Bars & Smoothies",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Tleaf Teapresso": [
+         [
+            4.0,
+            "$",
+            [
+               "860 Blossom Hill Rd",
+               "San Jose, CA 95123"
+            ],
+            11.4,
+            [
+               "Coffee & Tea",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Tastea": [
+         [
+            4.0,
+            "$$",
+            [
+               "3247 South White Rd",
+               "San Jose, CA 95148"
+            ],
+            13.8,
+            [
+               "Coffee & Tea",
+               "Juice Bars & Smoothies",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Soyful Desserts": [
+         [
+            4.0,
+            "$$",
+            [
+               "3005 Silver Creek Rd",
+               "Ste 170",
+               "San Jose, CA 95121"
+            ],
+            12.7,
+            [
+               "Desserts",
+               "Bubble Tea"
+            ]
+         ]
+      ]
+   },
+   "Mountain View": {},
+   "Palo Alto": {},
+   "Santa Clara": {
+      "Pho Hoa Noodle Soup & Jazen Tea": [
+         [
+            3.5,
+            "$$",
+            [
+               "3147 Mission College Blvd",
+               "Santa Clara, CA 95054"
+            ],
+            5.9,
+            [
+               "Vietnamese",
+               "Bubble Tea",
+               "Soup"
+            ]
+         ]
+      ],
+      "World Wrapps 2.0": [
+         [
+            4.0,
+            "$$",
+            [
+               "3125 Mission College Blvd",
+               "Santa Clara, CA 95054"
+            ],
+            5.9,
+            [
+               "Wraps",
+               "Bubble Tea",
+               "Fast Food"
+            ]
+         ]
+      ],
+      "Tous Les Jours": [
+         [
+            3.5,
+            "$$",
+            [
+               "3535 Homestead Rd",
+               "Santa Clara, CA 95051"
+            ],
+            3.0,
+            [
+               "Bakeries",
+               "Coffee & Tea",
+               "Desserts"
+            ]
+         ]
+      ],
+      "Annie's Sandwiches": [
+         [
+            4.0,
+            "$",
+            [
+               "2925 Park Ave",
+               "Santa Clara, CA 95050"
+            ],
+            6.2,
+            [
+               "Vietnamese",
+               "Coffee & Tea",
+               "Sandwiches"
+            ]
+         ]
+      ]
+   },
+   "Sunnyvale": {},
+   "Saratoga": {}
+}

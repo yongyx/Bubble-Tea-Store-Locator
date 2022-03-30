@@ -1,0 +1,305 @@
+{
+   "Cupertino": {},
+   "San Jose": {
+      "Jasmine Kocha": [
+         [
+            4.0,
+            "$",
+            [
+               "3129 Meridian Ave",
+               "Ste 20",
+               "San Jose, CA 95124"
+            ],
+            8.4,
+            [
+               "Coffee & Tea",
+               "Juice Bars & Smoothies",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Shake Tea": [
+         [
+            4.0,
+            "$",
+            [
+               "925 Blossom Hill Rd",
+               "Ste 1378",
+               "San Jose, CA 95123"
+            ],
+            10.9,
+            [
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "T4": [
+         [
+            3.0,
+            "$",
+            [
+               "6950 Almaden Expy",
+               "San Jose, CA 95120"
+            ],
+            13.3,
+            [
+               "Bubble Tea",
+               "Juice Bars & Smoothies",
+               "Coffee & Tea"
+            ]
+         ]
+      ],
+      "Paper Moon Cafe": [
+         [
+            4.5,
+            "$",
+            [
+               "17 N 2nd St",
+               "San Jose, CA 95113"
+            ],
+            8.6,
+            [
+               "Coffee & Tea",
+               "Cafes",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Gong Cha": [
+         [
+            3.5,
+            "$",
+            [
+               "140 Paseo De San Antonio",
+               "San Jose, CA 95112"
+            ],
+            8.9,
+            [
+               "Coffee & Tea",
+               "Juice Bars & Smoothies",
+               "Bubble Tea"
+            ]
+         ],
+         [
+            4.0,
+            "$",
+            [
+               "2200 Eastridge Lp",
+               "Ste 2000",
+               "San Jose, CA 95122"
+            ],
+            12.6,
+            [
+               "Bubble Tea",
+               "Coffee & Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "BoBo Drinks": [
+         [
+            2.5,
+            "$",
+            [
+               "779 Story Rd",
+               "Ste 80",
+               "San Jose, CA 95122"
+            ],
+            10.2,
+            [
+               "Coffee & Tea",
+               "Bubble Tea",
+               "Tea Rooms"
+            ]
+         ]
+      ],
+      "TZONE Almaden": [
+         [
+            4.0,
+            "$",
+            [
+               "4750 Almaden Expy",
+               "Ste 136",
+               "San Jose, CA 95118"
+            ],
+            10.1,
+            [
+               "Bubble Tea",
+               "Juice Bars & Smoothies",
+               "Coffee & Tea"
+            ]
+         ]
+      ],
+      "Ding Tea House": [
+         [
+            3.5,
+            "$",
+            [
+               "3151 Senter Rd",
+               "Ste 120",
+               "San Jose, CA 95111"
+            ],
+            11.8,
+            [
+               "Bubble Tea",
+               "Coffee & Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Buddy Teahouse": [
+         [
+            4.0,
+            "$",
+            [
+               "481 E San Carlos St",
+               "San Jose, CA 95112"
+            ],
+            9.3,
+            [
+               "Bubble Tea",
+               "Ramen",
+               "Coffee & Tea"
+            ]
+         ]
+      ],
+      "Meow Tea": [
+         [
+            4.0,
+            "$",
+            [
+               "2857 Senter Rd",
+               "Ste G",
+               "San Jose, CA 95111"
+            ],
+            11.3,
+            [
+               "Asian Fusion",
+               "Desserts",
+               "Coffee & Tea"
+            ]
+         ]
+      ],
+      "Tiger Sugar - San Jose": [
+         [
+            4.0,
+            "$$",
+            [
+               "1628 Hostetter Rd",
+               "Ste H",
+               "San Jose, CA 95131"
+            ],
+            9.9,
+            [
+               "Bubble Tea",
+               "Desserts",
+               "Coffee & Tea"
+            ]
+         ]
+      ],
+      "T4 Story Road": [
+         [
+            3.5,
+            "$",
+            [
+               "969 Story Rd",
+               "Ste 6081",
+               "San Jose, CA 95122"
+            ],
+            10.3,
+            [
+               "Bubble Tea",
+               "Coffee & Tea",
+               "Taiwanese"
+            ]
+         ]
+      ],
+      "Tea Villa": [
+         [
+            4.0,
+            "$$",
+            [
+               "2200 Eastridge Lp",
+               "San Jose, CA 95122"
+            ],
+            12.7,
+            [
+               "Bubble Tea",
+               "Tea Rooms"
+            ]
+         ]
+      ],
+      "Teaqueria": [
+         [
+            4.5,
+            "$$",
+            [
+               "894 Emory St",
+               "San Jose, CA 95126"
+            ],
+            7.2,
+            [
+               "Coffee & Tea",
+               "Tacos"
+            ]
+         ]
+      ],
+      "Aloha Fresh": [
+         [
+            4.5,
+            "$$",
+            [
+               "225 Jackson St",
+               "San Jose, CA 95112"
+            ],
+            8.5,
+            [
+               "Poke",
+               "Hawaiian",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "85\u00b0C Bakery Cafe": [
+         [
+            3.5,
+            "$",
+            [
+               "1183 S De Anza Blvd",
+               "Ste 10",
+               "San Jose, CA 95129"
+            ],
+            1.3,
+            [
+               "Bakeries",
+               "Coffee & Tea",
+               "Patisserie/Cake Shop"
+            ]
+         ]
+      ]
+   },
+   "Mountain View": {
+      "Panda Express": [
+         [
+            2.0,
+            "$$",
+            [
+               "1035 El Monte Ave",
+               "C",
+               "Mountain View, CA 94040"
+            ],
+            5.7,
+            [
+               "Chinese",
+               "Fast Food",
+               "Bubble Tea"
+            ]
+         ]
+      ]
+   },
+   "Palo Alto": {},
+   "Santa Clara": {},
+   "Sunnyvale": {},
+   "Saratoga": {}
+}

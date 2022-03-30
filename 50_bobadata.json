@@ -1,0 +1,598 @@
+{
+   "Cupertino": {
+      "Wanpo Tea Shop": [
+         [
+            4.5,
+            "$",
+            [
+               "19319 Stevens Creek Blvd",
+               "Cupertino, CA 95014"
+            ],
+            2.1,
+            [
+               "Bubble Tea",
+               "Taiwanese"
+            ]
+         ]
+      ],
+      "Paris Baguette": [
+         [
+            3.0,
+            "$$",
+            [
+               "20735 Stevens Creek Blvd",
+               "Cupertino, CA 95014"
+            ],
+            0.6,
+            [
+               "Bakeries",
+               "Coffee & Tea",
+               "Patisserie/Cake Shop"
+            ]
+         ]
+      ],
+      "Hanlin Tea Room - Cupertino": [
+         [
+            4.0,
+            "$$",
+            [
+               "10271 Torre Ave",
+               "Cupertino, CA 95014"
+            ],
+            0.8,
+            [
+               "Taiwanese",
+               "Tea Rooms"
+            ]
+         ]
+      ],
+      "85\u00b0C Bakery Cafe": [
+         [
+            3.0,
+            "$",
+            [
+               "19459 Stevens Creek Blvd",
+               "Ste 100",
+               "Cupertino, CA 95014"
+            ],
+            1.9,
+            [
+               "Bakeries",
+               "Coffee & Tea",
+               "Patisserie/Cake Shop"
+            ]
+         ]
+      ]
+   },
+   "San Jose": {
+      "Boba Pub": [
+         [
+            4.0,
+            "$$",
+            [
+               "1576 Branham Ln",
+               "San Jose, CA 95118"
+            ],
+            9.1,
+            [
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Kay's Tea House": [
+         [
+            4.5,
+            "$$",
+            [
+               "422 W Capitol Expy",
+               "San Jose, CA 95136"
+            ],
+            11.2,
+            [
+               "Bubble Tea",
+               "Coffee & Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Teahee": [
+         [
+            4.0,
+            "$",
+            [
+               "979 Story Rd",
+               "Ste 7012",
+               "San Jose, CA 95122"
+            ],
+            10.3,
+            [
+               "Coffee & Tea",
+               "Juice Bars & Smoothies",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Pop Up Tea, Coffee & Snacks": [
+         [
+            4.0,
+            "$$",
+            [
+               "185 Branham Ln",
+               "Ste 2",
+               "San Jose, CA 95136"
+            ],
+            12.2,
+            [
+               "Bubble Tea",
+               "Coffee & Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Tiger Milk Boba Bar": [
+         [
+            4.0,
+            "NULL",
+            [
+               "52 S 1st St",
+               "San Jose, CA 95113"
+            ],
+            8.6,
+            [
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Kung Fu Tea": [
+         [
+            3.5,
+            "$$",
+            [
+               "457 Saratoga Ave",
+               "San Jose, CA 95129"
+            ],
+            3.8,
+            [
+               "Bubble Tea",
+               "Coffee & Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Pure Tea Bar": [
+         [
+            4.0,
+            "$$",
+            [
+               "6195 Santa Teresa Blvd",
+               "San Jose, CA 95123"
+            ],
+            14.4,
+            [
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Yi Fang Taiwan Fruit Tea": [
+         [
+            3.5,
+            "$$",
+            [
+               "1147 S De Anza Blvd",
+               "San Jose, CA 95129"
+            ],
+            1.2,
+            [
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "SunCha": [
+         [
+            4.5,
+            "NULL",
+            [
+               "326 Commercial St",
+               "San Jose, CA 95112"
+            ],
+            8.5,
+            [
+               "Coffee & Tea",
+               "Bubble Tea",
+               "Caterers"
+            ]
+         ]
+      ],
+      "Tra Temptation": [
+         [
+            4.5,
+            "$$",
+            [
+               "3245 Sierra Rd",
+               "San Jose, CA 95132"
+            ],
+            12.1,
+            [
+               "Coffee & Tea",
+               "Bubble Tea",
+               "Specialty Food"
+            ]
+         ]
+      ],
+      "Boba Bar": [
+         [
+            3.5,
+            "$",
+            [
+               "310 S 3rd St",
+               "San Jose, CA 95112"
+            ],
+            8.9,
+            [
+               "Bubble Tea",
+               "Asian Fusion",
+               "Chicken Wings"
+            ]
+         ]
+      ],
+      "Teaspoon": [
+         [
+            4.0,
+            "$",
+            [
+               "4328 Moorpark Ave",
+               "San Jose, CA 95129"
+            ],
+            3.7,
+            [
+               "Bubble Tea",
+               "Desserts",
+               "Coffee & Tea"
+            ]
+         ],
+         [
+            4.0,
+            "$",
+            [
+               "1698 Hostetter Rd",
+               "San Jose, CA 95131"
+            ],
+            10.0,
+            [
+               "Bubble Tea",
+               "Coffee & Tea",
+               "Macarons"
+            ]
+         ]
+      ],
+      "Sunny's House": [
+         [
+            4.5,
+            "$$",
+            [
+               "461 Blossom Hill Rd",
+               "Ste G",
+               "San Jose, CA 95123"
+            ],
+            12.6,
+            [
+               "Bubble Tea",
+               "Juice Bars & Smoothies",
+               "Vietnamese"
+            ]
+         ]
+      ],
+      "Happy Lemon": [
+         [
+            4.0,
+            "$",
+            [
+               "630 Blossom Hill Rd",
+               "Ste 30",
+               "San Jose, CA 95123"
+            ],
+            12.0,
+            [
+               "Tea Rooms",
+               "Juice Bars & Smoothies",
+               "Bubble Tea"
+            ]
+         ],
+         [
+            4.0,
+            "$",
+            [
+               "5379 Prospect Rd",
+               "San Jose, CA 95129"
+            ],
+            3.2,
+            [
+               "Juice Bars & Smoothies",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "T Spot Boba Drinks & Snacks": [
+         [
+            4.0,
+            "$",
+            [
+               "2520 Berryessa Rd",
+               "San Jose, CA 95132"
+            ],
+            11.3,
+            [
+               "Bubble Tea",
+               "Coffee & Tea"
+            ]
+         ]
+      ],
+      "Tohja Boba": [
+         [
+            5.0,
+            "NULL",
+            [
+               "1221 Story Rd",
+               "Ste 10",
+               "San Jose, CA 95122"
+            ],
+            10.6,
+            [
+               "Coffee & Tea",
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Tpumps": [
+         [
+            4.0,
+            "$$",
+            [
+               "7290 Bollinger Rd",
+               "San Jose, CA 95129"
+            ],
+            0.9,
+            [
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "N7 Draft Tea and Coffee": [
+         [
+            4.0,
+            "$",
+            [
+               "3005 Silver Creek Rd",
+               "Ste 184",
+               "San Jose, CA 95121"
+            ],
+            12.7,
+            [
+               "Coffee & Tea",
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Breaktime Tea": [
+         [
+            4.0,
+            "$",
+            [
+               "110 E San Fernando St",
+               "San Jose, CA 95112"
+            ],
+            8.8,
+            [
+               "Cafes",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Sharetea": [
+         [
+            3.5,
+            "$",
+            [
+               "1728 Hostetter Rd",
+               "Ste 30",
+               "San Jose, CA 95131"
+            ],
+            10.1,
+            [
+               "Coffee & Tea",
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Tea Villa": [
+         [
+            3.5,
+            "$",
+            [
+               "150 S 1st St",
+               "Ste 103",
+               "San Jose, CA 95113"
+            ],
+            8.6,
+            [
+               "Bubble Tea",
+               "Juice Bars & Smoothies",
+               "Desserts"
+            ]
+         ]
+      ],
+      "Tastea": [
+         [
+            4.0,
+            "$$",
+            [
+               "509 W Capitol Expy",
+               "San Jose, CA 95136"
+            ],
+            11.1,
+            [
+               "Bubble Tea",
+               "Coffee & Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Soyful Desserts": [
+         [
+            4.0,
+            "$$",
+            [
+               "999 Story Rd",
+               "Unit 9048",
+               "San Jose, CA 95122"
+            ],
+            10.4,
+            [
+               "Desserts",
+               "Bubble Tea"
+            ]
+         ]
+      ]
+   },
+   "Mountain View": {},
+   "Palo Alto": {},
+   "Santa Clara": {
+      "Meet Fresh": [
+         [
+            2.5,
+            "$$",
+            [
+               "3958 Rivermark Plz",
+               "Santa Clara, CA 95054"
+            ],
+            7.5,
+            [
+               "Desserts",
+               "Shaved Ice",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "CoCo Fresh Tea & Juice Valley Fair": [
+         [
+            3.5,
+            "$$",
+            [
+               "2855 Stevens Creek Blvd",
+               "Ste 1089",
+               "Santa Clara, CA 95050"
+            ],
+            5.5,
+            [
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Tea Spot Cafe": [
+         [
+            4.0,
+            "NULL",
+            [
+               "4300 Great America Pkwy",
+               "Ste 100",
+               "Santa Clara, CA 95054"
+            ],
+            6.3,
+            [
+               "Bubble Tea",
+               "Taiwanese",
+               "Cafes"
+            ]
+         ]
+      ],
+      "Sharetea": [
+         [
+            3.5,
+            "$",
+            [
+               "2855 Stevens Creek Blvd",
+               "Santa Clara, CA 95050"
+            ],
+            5.4,
+            [
+               "Bubble Tea",
+               "Coffee & Tea",
+               "Tea Rooms"
+            ]
+         ]
+      ],
+      "Lucky Tea": [
+         [
+            3.5,
+            "$$",
+            [
+               "2855 Stevens Creek Blvd",
+               "Ste 2170",
+               "Santa Clara, CA 95050"
+            ],
+            5.4,
+            [
+               "Coffee & Tea",
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Rabbit Rabbit Tea": [
+         [
+            3.5,
+            "$$",
+            [
+               "2855 Stevens Creek Blvd",
+               "Santa Clara, CA 95050"
+            ],
+            5.4,
+            [
+               "Coffee & Tea",
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ]
+   },
+   "Sunnyvale": {
+      "Bean Scene": [
+         [
+            3.5,
+            "$$",
+            [
+               "186 S Murphy Ave",
+               "Sunnyvale, CA 94086"
+            ],
+            4.0,
+            [
+               "Coffee & Tea"
+            ]
+         ]
+      ],
+      "Hotpot First": [
+         [
+            3.5,
+            "$$",
+            [
+               "1149 N Lawrence Expy",
+               "Sunnyvale, CA 94089"
+            ],
+            6.0,
+            [
+               "Hot Pot",
+               "Chinese",
+               "Bubble Tea"
+            ]
+         ]
+      ]
+   },
+   "Saratoga": {}
+}

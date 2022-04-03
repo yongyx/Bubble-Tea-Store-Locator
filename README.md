@@ -16,7 +16,7 @@ We display a window to the interface that gives the user 3 choices.
 <img width="402" alt="Screen Shot 2022-03-29 at 6 47 50 PM" src="https://user-images.githubusercontent.com/56427665/160734387-a5d71cd3-e269-457c-b797-4df12ad7a62d.png">
 
 ### Choice 1: Display Boba Shops
-This choice allows users to display a list of bubble tea stores. The user selects a range given in miles, which then displays a list of bubble tea stores within that given range.
+This choice allows users to display a list of bubble tea stores. The user selects a range given in miles, which then displays a list of bubble tea stores within that given range. There are a total of 4 ranges of distances given.
 
 <img width="448" alt="Screen Shot 2022-03-29 at 6 49 24 PM" src="https://user-images.githubusercontent.com/56427665/160734542-cbe9fed7-c3bc-4792-91b0-8e6bb6a2cf89.png">
 

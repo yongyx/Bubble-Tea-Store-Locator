@@ -21,7 +21,7 @@ This choice allows users to display a list of bubble tea stores. The user select
 <img width="448" alt="Screen Shot 2022-03-29 at 6 49 24 PM" src="https://user-images.githubusercontent.com/56427665/160734542-cbe9fed7-c3bc-4792-91b0-8e6bb6a2cf89.png">
 
 ### Choice 2: Search for boba shops
-The user can search for a bubble tea store by either city or "dollar sign", which is Yelp's way of categorzing how expensive it is.
+The user can search for a bubble tea store by either city or "dollar sign", which is Yelp's way of categorzing how expensive it is. It will be arranged in ascending order from least expensive to most expensive.
 
 <img width="201" alt="Screen Shot 2022-03-29 at 6 56 12 PM" src="https://user-images.githubusercontent.com/56427665/160735178-9487a340-65c0-4958-803c-b0bddbae7082.png">
 

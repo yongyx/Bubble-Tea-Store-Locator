@@ -32,5 +32,5 @@ The user can search for a bubble tea store by either city or "dollar sign", whic
 <img width="402" alt="Screen Shot 2022-03-29 at 6 57 24 PM" src="https://user-images.githubusercontent.com/56427665/160735317-48af0dc7-5745-4cf8-9882-9b2e0201b718.png">
 
 ### Choice 3: Number of 4-5 starred boba stores in each city
-This choice displays the number of 4-5 starred bubble tea stores in each city.
+This choice displays the number of 4-5 starred bubble tea stores in each city. This is displayed in the form of a bar graph.
 
